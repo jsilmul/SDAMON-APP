@@ -1,0 +1,160 @@
+h2 {
+    color: black!important;
+    width: 500px !important;
+    background-color:orange !important;
+    border: orange 1px solid  !important;
+    border-width: 1.5px !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 50px !important;
+    }
+
+
+p {
+    color:darkslategrey !important;
+    width: 500px !important;
+    border: 1px solid whitesmoke  !important;
+    border-width: 1.5px !important;
+    background-color:whitesmoke !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 1px !important;
+    }
+
+
+.div-entar{
+    font-family:Verdana, Geneva, Tahoma, sans-serif !important;
+    background-color:chartreuse !important;
+    border:springgreen 1px solid  !important;
+    border-radius: 15px !important;
+    border-width: 1.5px !important;
+    }
+
+
+.icono-documentacion {
+    background-color:yellow !important;
+    border:yellow  1px solid  !important;
+    border-width: 1.5px !important;
+    }
+
+
+.div-documentacion{
+    background-color: whitesmoke !important;
+    }
+
+
+.icono-laracasts{
+    background-color:yellow  !important;
+    border:yellow  1px solid  !important;
+    border-width: 1.5px !important;
+    }
+
+
+.div-laracasts{
+    background-color:whitesmoke  !important;
+    }
+
+
+.icono-noticias{
+    background-color:yellow  !important;
+    border:yellow  1px solid  !important;
+    border-width: 1.5px !important;
+    }
+
+
+.div-noticias{
+    background-color:whitesmoke  !important;
+    }
+
+
+.icono-eco{
+    background-color:yellow  !important;
+    border:yellow  1px solid  !important;
+    border-width: 1.5px !important;
+    }
+
+
+.div-eco{
+    background-color:whitesmoke  !important;
+    }
+
+
+.eco-p{
+    background-color:whitesmoke!important;
+    color:darkslategrey  !important;
+    }
+
+
+.numero_1{
+    width: 500px !important;
+    border: 1px solid aquamarine  !important;
+    border-width: 1.5px !important;
+    background-color:lime !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 10px !important;
+    }
+
+
+.barra-nav{
+    color:black !important;
+    width: 500px !important;
+    border: 1px solid red  !important;
+    border-width: 1.5px !important;
+    background-color:gold !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 10px !important;
+    }
+
+
+.numero-dos{
+    color:black !important;
+    width: 500px !important;
+    border: 1px solid red  !important;
+    border-width: 1.5px !important;
+    background-color:gold !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 10px !important;
+    }
+
+.numero-tres{
+    color:black !important;
+    width: 500px !important;
+    border: 1px solid red  !important;
+    border-width: 1.5px !important;
+    background-color:orange !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+    background-position:0% !important;
+    background-size:0cqh !important;
+    background-clip:center !important;
+    background-attachment:center !important;
+    background-blend-mode:darken !important;
+    border-radius: 10px !important;
+    }
+
+
+.gran-nav{
+    background-color:orange !important;
+    }
